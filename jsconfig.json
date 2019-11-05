@@ -1,0 +1,12 @@
+
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"paths": {
+			"@scss": ["scss"],
+			"scss": ["scss"],
+			"js": ["js"],
+			"images": ["images"]
+		}
+	}
+}
